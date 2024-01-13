@@ -1,1 +1,1 @@
-Deployed [link](https://laagat.netlify.app)
+Deployed [link](https://harryshoppingcart.netlify.app)
